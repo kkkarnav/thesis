@@ -1,16 +1,37 @@
 # thesis
+
+
+### Topics
+
+There's two major line of enquiry for the thesis. The first one is the centre's current research area, which is short-term conventional ML-based weather modelling. The second is my original idea, which is applications of long-term climate modelling combined with conventional geospatial methods to identify areas of urban and rural insight.
+
+
+### climateModelling
+
+which is really more like weather modelling; This is most of the work we've done with the centre over the summer.
  
 ### Data
 
-- IMD has 2.5x2.5 temperature from June 2015 to now, which is about 9 years. Is that enough to draw meaningful inferences? It definitely isn't for climate, but maybe for weather?
-- IMD has 1x1 temperature from 1951 but only until 2018 i think? Does it have data up to 2024 or would it be possible to aggregate the 2.5x2.5 up?
+- IMD has 1x1 temperature from 1951 to 2024 - which we've downloaded as ``heat_main``.
+- IMD has 2.5x2.5 temperature from June 2015 to 2024, which is about 9 years, which we've downloaded as ``heat_rt``. Is 9 years enough to draw meaningful inferences? It definitely isn't for climate, but maybe for weather?
+
+### Lit Review
+
+https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit
+
+- Review of trend detection methods and their application to detect temperature changes in India - P. Sonali, D. Nagesh Kumar (2012)
+- Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)
+- Artificial neural networks for automated year-round temperature prediction - Smith (2009)
+
+### Models
+
+- Autoformer?
 
 - 99acres seem fairly scrapeable, what about other broker websites
 - Would it be possible to get circle rates for every state from government websites?
 
 - Satellite images?
 
-### Lit Review
 
 - Seems to be plenty about using IMD data
     - Citations here: https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554
