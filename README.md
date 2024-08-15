@@ -17,13 +17,23 @@ which is really more like weather modelling; This is most of the work we've done
 
 ### Lit Review
 
+ - [Lit review presentation](https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit)
+
  - Data:
-     - /[IMD Lib/] [IMDLIB: An open-source library for retrieval, processing and spatiotemporal exploratory assessments of gridded meteorological observation datasets over India](https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554)
-     - /[Reanalysis vs IMDLib comparison/] [Validation of Surface Temperature Derived From
+     - [IMD Lib] [IMDLIB: An open-source library for retrieval, processing and spatiotemporal exploratory assessments of gridded meteorological observation datasets over India](https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554)
+     - [Reanalysis vs IMDLib comparison] [Validation of Surface Temperature Derived From
 MERRA‐2 Reanalysis Against IMD Gridded
 Data Set Over India](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019EA000910)
 
+ - Methods:
+     - [(tmax+tmin)/2 isn't a good estimate] [On the min–max estimation of mean daily
+temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/10/Clim.-Dyn.-min-max.pdf)
+     - [Statistical trends in IMD data] [Spatial and Temporal Trends in High Resolution Gridded Temperature Data over India](https://link.springer.com/article/10.1007/s13143-019-00120-1)
+     - [Normal distribution conversion of temperature] [On the statistical distribution of temperature and the classification of extreme events considering season and climate change—an application in Switzerland](https://link.springer.com/article/10.1007/s00704-023-04530-0)
+ 
  - Models:
+ - Related Models:
+     - [Climate induced disaster prediction] [Impact Analysis of Climate Change on Floods in an Indian Region Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31)
     
 
 https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit
