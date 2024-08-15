@@ -26,21 +26,18 @@ MERRA‐2 Reanalysis Against IMD Gridded
 Data Set Over India](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019EA000910)
 
  - Methods:
+     - [Statistical overview] [Review of trend detection methods and their application to detect temperature changes in India - P. Sonali, D. Nagesh Kumar (2012)](https://www.sciencedirect.com/science/article/abs/pii/S0022169412009341?via%3Dihub)
      - [(tmax+tmin)/2 isn't a good estimate] [On the min–max estimation of mean daily
 temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/10/Clim.-Dyn.-min-max.pdf)
      - [Statistical trends in IMD data] [Spatial and Temporal Trends in High Resolution Gridded Temperature Data over India](https://link.springer.com/article/10.1007/s13143-019-00120-1)
      - [Normal distribution conversion of temperature] [On the statistical distribution of temperature and the classification of extreme events considering season and climate change—an application in Switzerland](https://link.springer.com/article/10.1007/s00704-023-04530-0)
  
  - Models:
+     - [Georgia NN weather prediction] [Artificial neural networks for automated year-round temperature prediction](https://sci-hub.se/http://dx.doi.org/10.1016/j.compag.2009.04.003)
  - Related Models:
      - [Climate induced disaster prediction] [Impact Analysis of Climate Change on Floods in an Indian Region Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31)
+     - [Physical climate forecast] [Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)](https://sci-hub.se/https://doi.org/10.1126/science.1139540)
     
-
-https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit
-
- - Review of trend detection methods and their application to detect temperature changes in India - P. Sonali, D. Nagesh Kumar (2012)
- - Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)
- - Artificial neural networks for automated year-round temperature prediction - Smith (2009)
 
 ### Statistics & Preprocessing
 
@@ -57,19 +54,6 @@ https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit
  - Would it be possible to get circle rates for every state from government websites?
 
  - Satellite images?
-
-
- - Seems to be plenty about using IMD data
-     - Citations here: https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554
-
- - Seems to be plenty about temperature prediction
-     - https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019EA000910
-     - https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/10/Clim.-Dyn.-min-max.pdf (why t_max+t_min/2 might not be a good idea)
-     - Citations here: https://link.springer.com/article/10.1007/s13143-019-00120-1#citeas
-     - https://link.springer.com/article/10.1007/s00704-023-04530-0 (normal distribution of temp and extreme events in switzerland)
-
- - Climate change forecasting
-     - https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31
 
  - Look for Markov modelling literature
 
