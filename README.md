@@ -46,10 +46,12 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [Downscaling weather predictions with AI] [Emerging AI-based weather prediction models as downscaling tools](https://arxiv.org/pdf/2406.17977)
  
  - Models:
+     - [Aastha-Apoorv paper] [Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts](https://arxiv.org/pdf/2402.07851)
      - [Georgia NN weather prediction] [Artificial neural networks for automated year-round temperature prediction](https://sci-hub.se/http://dx.doi.org/10.1016/j.compag.2009.04.003)
  - Related Models:
      - [Climate induced disaster prediction] [Impact Analysis of Climate Change on Floods in an Indian Region Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31)
-     - [Physical climate forecast] [Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)](https://sci-hub.se/https://doi.org/10.1126/science.1139540)
+     - [Physical climate foundational model] [Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)](https://sci-hub.se/https://doi.org/10.1126/science.1139540)
+     - [DL-based heatwave forecasts] [Deep Learning-Based Extreme Heatwave Forecast](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.789641/full#F2)
     
 
 ### Statistics & Preprocessing
