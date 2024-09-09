@@ -21,6 +21,7 @@ which is really more like weather modelling; This is most of the work we've done
  - [Heat and moisture based heatwave maps](https://bhuvan-app1.nrsc.gov.in/heatwave/)
  - [NSRDB solar radiation data](https://developer.nrel.gov/docs/solar/nsrdb/)
  - [NSRDB datasets](https://nsrdb.nrel.gov/data-sets/international-data)
+ - [IMDAA & NGFS Reanalysis](https://rds.ncmrwf.gov.in/)
 
 ### Lit Review
 
