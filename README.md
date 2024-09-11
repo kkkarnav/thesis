@@ -22,6 +22,7 @@ which is really more like weather modelling; This is most of the work we've done
  - [NSRDB solar radiation data](https://developer.nrel.gov/docs/solar/nsrdb/)
  - [NSRDB datasets](https://nsrdb.nrel.gov/data-sets/international-data)
  - [IMDAA & NGFS Reanalysis](https://rds.ncmrwf.gov.in/)
+ - Can use [OPeNDAP](https://www.opendap.org/) which could help with remotely accessing large datasets
 
 ### Lit Review
 
