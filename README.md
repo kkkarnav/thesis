@@ -27,9 +27,9 @@ which is really more like weather modelling; This is most of the work we've done
 ### Lit Review
 
  - [Lit review presentation](https://www.canva.com/design/DAGKtv2ri6c/f_HtVsEyY5WYIoyXIgBkZg/edit)
- - [Lit review (Sapta)](https://github.com/kkkarnav/thesis/blob/main/Paper_Presentations%20(Sapta).pdf)
- - [Lit review (Divij)](https://github.com/kkkarnav/thesis/blob/main/Paper_Presentations%20(Divij).pdf)
- - [Work Report (Divij)](https://github.com/kkkarnav/thesis/blob/main/Weather%20Modelling%20Report%20(Divij).pdf)
+ - [Lit review (Sapta)](https://github.com/kkkarnav/thesis/blob/main/presentations/Paper_Presentations%20(Sapta).pdf)
+ - [Lit review (Divij)](https://github.com/kkkarnav/thesis/blob/main/presentations/Paper_Presentations%20(Divij).pdf)
+ - [Work Report (Divij)](https://github.com/kkkarnav/thesis/blob/main/reports/Weather%20Modelling%20Report%20(Divij).pdf)
 
  - Data:
      - [IMD Lib] [IMDLIB: An open-source library for retrieval, processing and spatiotemporal exploratory assessments of gridded meteorological observation datasets over India](https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554)
