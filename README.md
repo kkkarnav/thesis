@@ -52,6 +52,8 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [GraphCast is better than ECMWF for cumulative precipitation forecasting] [Evaluation of precipitation forecasting base on GraphCast over mainland China](https://www.researchsquare.com/article/rs-4645037/v1)
      - [NASA explainer on foundational models] [Will AI Foundation Models Transform Scientific Research?](https://ntrs.nasa.gov/api/citations/20230013275/downloads/AI%20FM%20Scientific%20Research.pdf)
      - [Fine-tuning Prithvi for LULC] [Finetuning the Geospatial Foundation model for Land Cover mapping](https://openreview.net/pdf?id=56567S7W9E)
+     - [Using 500hpa geopotential as a covariate for heatwave prediction] [Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.789641/full)
+     - [Using 500hpa geopotential as a covariate for heatwave prediction] [Deep Learning-Based Extreme Heatwave Forecast](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.789641/full)
  
  - Models:
      - [Aastha-Apoorv paper] [Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts](https://arxiv.org/pdf/2402.07851)
