@@ -36,6 +36,7 @@ which is really more like weather modelling; This is most of the work we've done
      - [NRSDB solar data] [NREL India Solar Resource Data](https://www.nrel.gov/docs/fy21osti/78025.pdf)
      - [Global weather station dataset] [WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark](https://github.com/taohan10200/WEATHER-5K?tab=readme-ov-file)
      - [Sentinel-2 terrain mosaics] [Sentinel-1 Monthly Mosaics in the Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/news/2024-8-6-announcing-sentinel-1-monthly-mosaics-copernicus-data-space-ecosystem)
+     - [Harmonized Landsat Sentinel reflectance data] [HLSL30: HLS-2 Landsat Operational Land Imager Surface Reflectance and TOA Brightness Daily Global 30m](https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002)
 
  - Methods:
      - [Statistical overview] [Review of trend detection methods and their application to detect temperature changes in India - P. Sonali, D. Nagesh Kumar (2012)](https://www.sciencedirect.com/science/article/abs/pii/S0022169412009341?via%3Dihub)
@@ -49,11 +50,12 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [Comparison of ML vs Numerical methods] [Do data-driven models beat numerical models in forecasting weather extremes? A comparison of IFS HRES, Pangu-Weather, and GraphCast](https://gmd.copernicus.org/articles/17/7915/2024/)
      - [Fine-tuning GraphCast] [Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](https://arxiv.org/abs/2408.14587)
      - [GraphCast is better than ECMWF for cumulative precipitation forecasting] [Evaluation of precipitation forecasting base on GraphCast over mainland China](https://www.researchsquare.com/article/rs-4645037/v1)
+     - [NASA explainer on foundational models] [Will AI Foundation Models Transform Scientific Research?](https://ntrs.nasa.gov/api/citations/20230013275/downloads/AI%20FM%20Scientific%20Research.pdf)
+     - [Fine-tuning Prithvi for LULC] [Finetuning the Geospatial Foundation model for Land Cover mapping](https://openreview.net/pdf?id=56567S7W9E)
  
  - Models:
      - [Aastha-Apoorv paper] [Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts](https://arxiv.org/pdf/2402.07851)
      - [Georgia NN weather prediction] [Artificial neural networks for automated year-round temperature prediction](https://sci-hub.se/http://dx.doi.org/10.1016/j.compag.2009.04.003)
- - Related Models:
      - [Climate induced disaster prediction] [Impact Analysis of Climate Change on Floods in an Indian Region Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31)
      - [Physical climate foundational model] [Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)](https://sci-hub.se/https://doi.org/10.1126/science.1139540)
      - [DL-based heatwave forecasts] [Deep Learning-Based Extreme Heatwave Forecast](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.789641/full#F2)
@@ -61,6 +63,7 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [Other paper by same Ensemble paper author] [Application of a weighted ensemble forecasting method based on online learning in subseasonal forecast in the South China](https://geoscienceletters.springeropen.com/articles/10.1186/s40562-024-00319-9)
      - [GraphCast for solar radiation prediction] [Solarcast-ML: Per Node GraphCast Extension for Solar Energy Production](https://arxiv.org/abs/2406.13559)
      - [GraphCast with uncertainty quantification included in predictions] [GraphCast-Qtf: An improved weather prediction model based on uncertainty quantification methods](https://ieeexplore.ieee.org/abstract/document/10660789)
+     - [Pritvhi for flood mapping & prediction with satellite imagery] [Assessment of a new GeoAI foundation model for flood inundation mapping](https://arxiv.org/pdf/2309.14500)
     
 
 ### Statistics & Preprocessing
@@ -78,7 +81,7 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
  - [Google GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
  - [SHIELD: USGov atmospheric model](https://shield.gfdl.noaa.gov/shield-in-a-box/)
  - [Pritvhi: NASA foundational model](https://www.karmactive.com/nasa-and-ibms-prithvi-model-a-12x-boost-in-climate-forecast-accuracy/)
- - [FuXi: Ensemble-mean based forecast model] [A new ML model in the ECMWF web charts](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2023/new-ml-model-ecmwf-web-charts)
+ - [FuXi: Ensemble-mean based forecast model](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2023/new-ml-model-ecmwf-web-charts)
 
 ### Benchmarks
 
