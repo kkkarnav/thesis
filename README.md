@@ -46,6 +46,9 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [Normal distribution conversion of temperature] [On the statistical distribution of temperature and the classification of extreme events considering season and climate change—an application in Switzerland](https://link.springer.com/article/10.1007/s00704-023-04530-0)
      - [Indian rainfall analysis] [Characteristics of southwest summer monsoon rainfall events over East India](https://www.researchgate.net/publication/342165818_Characteristics_of_southwest_summer_monsoon_rainfall_events_over_East_India)
      - [Downscaling weather predictions with AI] [Emerging AI-based weather prediction models as downscaling tools](https://arxiv.org/pdf/2406.17977)
+     - [Comparison of ML vs Numerical methods] [Do data-driven models beat numerical models in forecasting weather extremes? A comparison of IFS HRES, Pangu-Weather, and GraphCast](https://gmd.copernicus.org/articles/17/7915/2024/)
+     - [Fine-tuning GraphCast] [Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](https://arxiv.org/abs/2408.14587)
+     - [GraphCast is better than ECMWF for cumulative precipitation forecasting] [Evaluation of precipitation forecasting base on GraphCast over mainland China](https://www.researchsquare.com/article/rs-4645037/v1)
  
  - Models:
      - [Aastha-Apoorv paper] [Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts](https://arxiv.org/pdf/2402.07851)
@@ -54,6 +57,10 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
      - [Climate induced disaster prediction] [Impact Analysis of Climate Change on Floods in an Indian Region Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_31)
      - [Physical climate foundational model] [Improved Surface Temperature Prediction for the Coming Decade from a Global Climate Model - Smith (2007)](https://sci-hub.se/https://doi.org/10.1126/science.1139540)
      - [DL-based heatwave forecasts] [Deep Learning-Based Extreme Heatwave Forecast](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.789641/full#F2)
+     - [Ensemble of ML models] [Evaluation of five global AI models for predicting weather in Eastern Asia and Western Pacific](https://www.nature.com/articles/s41612-024-00769-0)
+     - [Other paper by same Ensemble paper author] [Application of a weighted ensemble forecasting method based on online learning in subseasonal forecast in the South China](https://geoscienceletters.springeropen.com/articles/10.1186/s40562-024-00319-9)
+     - [GraphCast for solar radiation prediction] [Solarcast-ML: Per Node GraphCast Extension for Solar Energy Production](https://arxiv.org/abs/2406.13559)
+     - [GraphCast with uncertainty quantification included in predictions] [GraphCast-Qtf: An improved weather prediction model based on uncertainty quantification methods](https://ieeexplore.ieee.org/abstract/document/10660789)
     
 
 ### Statistics & Preprocessing
@@ -71,6 +78,7 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
  - [Google GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
  - [SHIELD: USGov atmospheric model](https://shield.gfdl.noaa.gov/shield-in-a-box/)
  - [Pritvhi: NASA foundational model](https://www.karmactive.com/nasa-and-ibms-prithvi-model-a-12x-boost-in-climate-forecast-accuracy/)
+ - [FuXi: Ensemble-mean based forecast model] [A new ML model in the ECMWF web charts](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2023/new-ml-model-ecmwf-web-charts)
 
 ### Benchmarks
 
@@ -85,6 +93,7 @@ temperatures](https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/f/330/files/2019/
 ### People
 
  - [Thierry Roncalli, Evry Paris Saclay](https://research-center.amundi.com/thierry-roncalli)
+ - [Christopher Subich, Environment Canada](https://scholar.google.ca/citations?user=EU99a0YAAAAJ&hl=en)
 
 ### To Do
 
