@@ -31,6 +31,10 @@ which is really more like weather modelling; This is most of the work we've done
  - [Lit review (Divij)](https://github.com/kkkarnav/thesis/blob/main/presentations/Paper_Presentations%20(Divij).pdf)
  - [Work Report (Divij)](https://github.com/kkkarnav/thesis/blob/main/reports/Weather%20Modelling%20Report%20(Divij).pdf)
 
+ - Classical NWP
+
+    - (NWP Review Paper) [The quiet revolution of numerical weather prediction](https://www.nature.com/articles/nature14956)
+
  - Data:
      - [IMD Lib] [IMDLIB: An open-source library for retrieval, processing and spatiotemporal exploratory assessments of gridded meteorological observation datasets over India](https://www.sciencedirect.com/science/article/abs/pii/S1364815223002554)
      - [NRSDB solar data] [NREL India Solar Resource Data](https://www.nrel.gov/docs/fy21osti/78025.pdf)
