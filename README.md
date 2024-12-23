@@ -120,7 +120,8 @@ which is not as clearly defined; This is most of the work I've been interested i
 ### Data
 
  - BhuNaksha
-     - Each state has a BhuNaksha instance which has point-accurate polyons of each plot of land. The [availability](https://bhunaksha.nic.in/bhunaksha/implementationstatus.jsp) is: Himachal, Haryana, Uttar Pradesh, Rajasthan, Maharashtra, Bihar, Odisha, Jharkhand, Chattisgarh, Andhra, Telangana, Goa, Kerala. The main missing states are Uttarakhand, Punjab, Gujarat (BhuLekh solution), WB, Karnataka, and Tamil Nadu.
+     - Each state has a BhuNaksha instance which has point-accurate polyons of each plot of land. The [availability](https://bhunaksha.nic.in/bhunaksha/implementationstatus.jsp) is: Himachal, Haryana, Uttar Pradesh, Rajasthan, Maharashtra, Bihar, Odisha, Jharkhand, Chattisgarh, Andhra, Telangana, Goa, Kerala. The main missing states are Uttarakhand, Punjab, Gujarat (BhuLekh solution), WB, Karnataka, and Tamil Nadu. ![DILRMP progress](https://github.com/kkkarnav/thesis/blob/main/map.png?raw=true)
+
      - [Magicbricks BhuLekh catalog](https://www.magicbricks.com/blog/state-wise-land-record-name-in-india/117824.html)
      - [Gujarat AnyROR (BhuLekh)](https://anyror.gujarat.gov.in/)
      - [Bengal's offline eBhuchitra](https://allowb.org/grad_pdfs/eBhuchitra_UserManual_FHTD_compressed.pdf)
